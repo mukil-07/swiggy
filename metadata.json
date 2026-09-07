@@ -1,0 +1,6 @@
+{
+  "name": "FOODORA - Premium Food Discovery & Delivery",
+  "description": "Discover top restaurants, explore trending cuisines, order delicious food with real-time tracking, reserve dining tables, and enjoy exclusive offers on FOODORA.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
